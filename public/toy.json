@@ -1,0 +1,65 @@
+[
+    {
+        "name": "Sports car",
+        "price": "340",
+        "rating": "3",
+        "image" : "https://i.ibb.co/c23vVbv/small-red-car-toy-kid-child-playing-with-it.jpg",
+        "description": "A toy sports car is a miniature version of a sports car designed for play and enjoyment. These toys are often made of plastic or die-cast metal and feature details that resemble real sports cars, such as sleek designs, vibrant colors, and realistic features. Toy sports cars can be operated manually or through remote control."
+    },
+    {
+        "name": "Truck",
+        "price": "340",
+        "rating": "3",
+        "image" : "https://i.ibb.co/SrWSH2S/closeup-shot-small-toy-car-wooden-train-track.jpg",
+        "description": "Material: Toy sports cars are commonly made from plastic or die-cast metal. Plastic models are lightweight, affordable, and often more suitable for younger children. Die-cast metal models are more durable, have higher detail quality, and are often preferred by collectors.Manual or Remote Control: Toy sports cars can be operated manually, allowing children to push or roll them on the floor, or they can be remote-controlled, where a handheld device allows the user to control the car's movements wirelessly. Remote-controlled cars offer more interactive play, with options for forward, backward, left, and right movements."
+    },
+    {
+        "name": "Regular Car",
+        "price": "340",
+        "rating": "3",
+        "image" : "https://i.ibb.co/9VJ1DQY/toy-car-with-gift-box.jpg",
+        "description": "Size and Scale: Toy sports cars come in various sizes and scales, ranging from small collectible models to larger ones that children can sit in and ride. The scale refers to the ratio of the toy car's size compared to the actual sports car it represents.Design and Detailing: Toy sports cars aim to replicate the appearance of real sports cars. They often feature aerodynamic shapes, curved lines, and bold colors to mimic the sleek and aggressive look of their full-sized counterparts. Some models may also include realistic features like opening doors, working headlights, or even engine sounds."
+    },
+    {
+        "name": "Mini fire truck",
+        "price": "340",
+        "rating": "3",
+        "image" : "https://i.ibb.co/HTmnGWt/christmas-toy-car-details-christmas-decor-blurred-background.jpg",
+        "description":"A toy sports car is a miniature replica or model of a sports car that is designed for play and entertainment. These toys are typically made of plastic, metal, or a combination of materials, and they often feature realistic details and designs to mimic actual sports cars.Toy sports cars come in various sizes and types, ranging from small handheld models to larger remote-controlled versions. Some toy sports cars are static, meaning they don't move, while others may have wheels and mechanisms that allow them to be pushed or rolled."
+    },
+    {
+        "name": "Mini police",
+        "price": "340",
+        "rating": "3",
+        "image" : "https://i.ibb.co/S5Z3cyP/closeup-old-mini-police-car-toy.jpg",
+        "description":"Scale: Toy sports cars are typically produced in specific scales to represent different sizes in relation to the actual car. Common scales include 1:18, 1:24, and 1:32, among others.Materials: These toys can be made from various materials. Plastic is commonly used for the body, while metal components, such as die-cast metal, may be incorporated for added durability and realism."
+    },
+    {
+        "name": "BMW Car",
+        "price": "340",
+        "rating": "3",
+        "image" : "https://i.ibb.co/zb25WvQ/red-car-with-christmas-ball-top.jpg",
+        "description": "Scale: Toy sports cars are typically produced in specific scales to represent different sizes in relation to the actual car. Common scales include 1:18, 1:24, and 1:32, among others."
+    },
+    {
+        "name": "Mni Water tuck",
+        "price": "340",
+        "rating": "3",
+        "image" : "https://i.ibb.co/st2wfsp/yellow-toy-truck-yard.jpg",
+        "description": "Materials: These toys can be made from various materials. Plastic is commonly used for the body, while metal components, such as die-cast metal, may be incorporated for added durability and realism."
+    },
+    {
+        "name": "Dangerous Truck", 
+        "price": "340",
+        "rating": "3",
+        "image" : "https://i.ibb.co/st2wfsp/yellow-toy-truck-yard.jpg",
+        "description": "Toy sports cars are popular among children and even collectors who appreciate the design and craftsmanship of these miniaturized vehicles. They offer imaginative play opportunities, allowing kids to create their own racing scenarios, engage in pretend-play, or build collections of their favorite car models."
+    },
+    {
+        "name": "Sport Track",
+        "price": "340",
+        "rating": "3",
+        "image" : "https://i.ibb.co/st2wfsp/yellow-toy-truck-yard.jpg",
+        "description": "popular among children and even collectors who appreciate the design and craftsmanship of these miniaturized vehicles. They offer imaginative play opportunities, allowing kids to create their own racing scenarios, engage in pretend-play, or build collections of their favorite car models."
+    }
+]
